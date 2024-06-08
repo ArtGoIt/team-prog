@@ -5,3 +5,9 @@ h2 {
 p {
   color: tomato;
 }
+
+.about-container {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 15px 0;
+}
