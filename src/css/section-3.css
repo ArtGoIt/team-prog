@@ -5,3 +5,6 @@ h1 {
 .text-section {
     color: blue;
 }
+.second-text {
+    font-weight: 500;
+}
